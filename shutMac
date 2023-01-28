@@ -1,4 +1,0 @@
-#!/bin/sh
-trap 'echo hi' INT ABRT TERM
-sudo shutdown -h now
-
